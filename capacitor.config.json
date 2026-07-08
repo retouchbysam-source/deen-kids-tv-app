@@ -1,0 +1,8 @@
+{
+  "appId": "com.deenkidstv.app",
+  "appName": "Deen Kids TV",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
